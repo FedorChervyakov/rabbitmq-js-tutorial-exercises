@@ -4,7 +4,7 @@ Tutorial from <https://www.rabbitmq.com/tutorials/>
 
 ### Sercer credentials
 Credentials are stored in top directory in a __.secret.json__ file.
-File format is as following:
+Secret file format is as following:
 ```
 {
     "user": "someuser",
